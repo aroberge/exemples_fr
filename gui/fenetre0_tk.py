@@ -1,8 +1,9 @@
-# -*- coding: utf-8 -*-
-'''Simple fenêtre'''
+'''
+Simple fenêtre
+'''
 
 import tkinter as tk
 
-app = tk.Tk()
+app = tk.Tk()  # souvent appelé "root" au lieu de "app"
 
 app.mainloop()
